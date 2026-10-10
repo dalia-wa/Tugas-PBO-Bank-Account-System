@@ -10,8 +10,8 @@ Dokumen ini memuat struktur proyek, penjelasan kode setiap kelas, cara menjalank
 
 | Data | Keterangan |
 |---|---|
-| 👤 **Nama** | [Nama Lengkap Kamu] |
-| 🆔 **NIM** | [NIM Kamu] |
+| 👤 **Nama** | Dahlia Wahyuni |
+| 🆔 **NIM** | F1D02510047 |
 | 🏫 **Kelas** | 3A |
 | 📘 **Mata Kuliah** | Pemrograman Berorientasi Objek (PBO) |
 | 👨‍🏫 **Dosen Pengampu** | Royana Afwani, S.T., M.T. |
@@ -190,7 +190,7 @@ public class Main {
 ⚙️ Prasyarat: Pastikan JDK (Java Development Kit) sudah terpasang di perangkatmu.
 
 # 1. Clone repository
-git clone [https://github.com/USERNAME_KAMU/Tugas-PBO-Bank-Account-System.git](https://github.com/USERNAME_KAMU/Tugas-PBO-Bank-Account-System.git)
+git clone [https://github.com/dalia-wa/Tugas-PBO-Bank-Account-System.git] (https://github.com/dalia-wa/Tugas-PBO-Bank-Account-System.git)
 cd Tugas-PBO-Bank-Account-System
 
 # 2. Compile semua file di dalam folder src
@@ -201,7 +201,7 @@ java -cp src Main
 
 📸 5. Hasil Program (Screenshot)
 🖥️ Output Eksekusi Program
-(Lampirkan atau unggah screenshot terminal hasil run program kamu ke bagian ini)
+<img width="305" height="139" alt="image" src="https://github.com/user-attachments/assets/c9aa7f9b-c021-4293-a5b5-ae667c0262fc" />
 
 ✅ 6. Kesimpulan
 Array Statis (Account[]) sangat efektif digunakan pada kelas Customer untuk membatasi kapasitas maksimal kepemilikan rekening nasabah secara spesifik dan terstruktur.
